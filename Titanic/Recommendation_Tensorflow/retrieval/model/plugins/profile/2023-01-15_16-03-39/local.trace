@@ -1,0 +1,28 @@
+
+GõB
+	/host:CPUõÉÔøÉÔø"„Øø
+tf_Compute/4074500„Øø"eõÉÔørestored_function_bodyH€©`PÀŸêÙZ
+tracing_count2Z$
+tf_function_callnotTraced-nonXla".õÉÔøTFE_Py_ExecuteCancelableHÀê—¢PÀ¬ïÑ"eõÉÔøEagerExecuteH€†ÀPÀô­åZ3
+eager_op'__inference_restored_function_body_3468Z
+is_func1"PõÉÔø:EagerLocalExecute: __inference_restored_function_body_3468H€˜‘ÂP€Şüâ"&õÉÔøEagerCopyToDeviceHÀœÎÂP€ÑÊ"1õÉÔøValidateInputTypeAndPlacementH€ÄÎPÀ„="(õÉÔøEagerKernelExecuteH€–¾ÏPÀÛ’Õ".õÉÔøKernelAndDeviceFunc::RunHÀ£õĞPÀÀ¤Ò"<õÉÔøFunctionRunH€‹ñÛPÀº™Z
+id-5694308411448696911"+õÉÔøTFE_DeleteTensorHandleH€’¼ÒPÀ·" õÉÔøtf.constantHÀ©«¬P€ú†("&õÉÔøTFE_DeleteTensorHandleH€ûŒĞ"-õÉÔøTFE_Py_FastPathExecute_CHÀÕèôP€İÅ2"&õÉÔøTFE_DeleteTensorHandleHÀÜƒ"&õÉÔøTFE_DeleteTensorHandleHÀå‰„"GõÉÔøEagerExecuteH€óÀ…P€²¶ Z
+eager_op
+LogicalAndZ
+is_func0"2õÉÔøEagerLocalExecute: LogicalAndHÀ€ø†P€ Â"&õÉÔøEagerCopyToDeviceHÀ¿ÎP€’ô"1õÉÔøValidateInputTypeAndPlacementH€èó‘PÀ„="'õÉÔøEagerKernelExecuteH€ñí’PÀ¯Ì"-õÉÔøKernelAndDeviceFunc::RunH€úç“PÀØ"&õÉÔøconvert_to_tensorHÀ¸°ùP€¿Ö"-õÉÔøTFE_Py_FastPathExecute_CHÀ¤é„PÀ™²+"EõÉÔøEagerExecuteH€°Í“P€üÙZ
+is_func0Z
+eager_opIdentity"0õÉÔøEagerLocalExecute: IdentityHÀ½„•P€êå"&õÉÔøEagerCopyToDeviceH€ï£šPÀ·"1õÉÔøValidateInputTypeAndPlacementH€¥€ PÀ„="'õÉÔøEagerKernelExecuteH€®ú PÀùï"-õÉÔøKernelAndDeviceFunc::RunH€·ô¡PÀçû
+"-õÉÔøTFE_Py_FastPathExecute_CHÀ¯·P€¿Ö"&õÉÔøconvert_to_tensorH€¯¨×PÀ‚ê"&õÉÔøconvert_to_tensorHÀÌ€èP€üÙ" õÉÔøtf.constantHÀ¸¹óPÀÌ"&õÉÔøconvert_to_tensorHÀÚÎ„PÀ€—" õÉÔøtf.constantH€§ÜŒPÀùï"&õÉÔøTFE_DeleteTensorHandleHÀØ—"&õÉÔøconvert_to_tensorHÀñ–¢PÀÓ´" õÉÔøtf.constantHÀ°í¨P€ÚÄ	"&õÉÔøTFE_DeleteTensorHandleH€ıú°"-õÉÔøTFE_Py_ExecuteCancelableH€„¢¿P€ƒ)"IõÉÔøEagerExecuteH€ÌòÆPÀ¶ó Z
+is_func0Z
+eager_opWriteSummary"4õÉÔøEagerLocalExecute: WriteSummaryH€ÕìÇP€©¼"&õÉÔøEagerCopyToDeviceH€ğÚÊP€­â"1õÉÔøValidateInputTypeAndPlacementH€¯±ÑPÀ„="'õÉÔøEagerKernelExecuteHÀ³îÑPÀÊº"-õÉÔøKernelAndDeviceFunc::RunHÀ¼èÒPÀ¸Æ"*õÉÔøTFE_DeleteTensorHandleHÀÔêPÀ„="&õÉÔøTFE_DeleteTensorHandleHÀ¦Îë"&õÉÔøTFE_DeleteTensorHandleH€«‹ì" õÉÔøtf.constantH€üÕôP€¶Ü"*õÉÔøTFE_DeleteTensorHandleHÀìË€PÀ„="*õÉÔøTFE_DeleteTensorHandleHÀõÅPÀ„="*õÉÔøTFE_DeleteTensorHandleH€ø¯P€‰z"&õÉÔøTFE_DeleteTensorHandleHÀ…ç"Võ„ØøExecutorState::ProcessH€æã›P€ì¸Z
+id-5694308411448696911Z
+iter_num0"†õ„ØøReadVariableOpH€À¨¥PÀ·Za
+	long_nameTStatefulPartitionedCall/StatefulPartitionedCall/MatMul/ReadVariableOp:ReadVariableOp"Võ„ØøExecutorState::ProcessH€Û–¨P€“¢8Z
+id-5694308411448696911Z
+iter_num0"Çõ„ØøLookupTableFindV2H€ä©PÀº™Z
+	long_nameStatefulPartitionedCall/StatefulPartitionedCall/sequential/StatefulPartitionedCall/string_lookup/None_Lookup/LookupTableFindV2:LookupTableFindV2"Èõ„ØøResourceGatherHÀ§¤°PÀ¨¥Z¢
+	long_name”StatefulPartitionedCall/StatefulPartitionedCall/sequential/StatefulPartitionedCall/embedding/StatefulPartitionedCall/embedding_lookup:ResourceGather"gõ„ØøMatMulH€ÙÃµP€¡ZJ
+	long_name=StatefulPartitionedCall/StatefulPartitionedCall/MatMul:MatMul"gõ„ØøTopKV2HÀö›ÆP€ş¬ZJ
+	long_name=StatefulPartitionedCall/StatefulPartitionedCall/TopKV2:TopKV2"wõ„ØøResourceGatherH€‚€ÕP€­âZR
+	long_nameEStatefulPartitionedCall/StatefulPartitionedCall/Gather:ResourceGather"Eõ„ØøExecutorDoneCallbackH€÷²áP€ËÑ0Z
+id-5694308411448696911

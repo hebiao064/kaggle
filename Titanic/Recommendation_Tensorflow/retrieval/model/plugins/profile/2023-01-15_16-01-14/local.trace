@@ -1,0 +1,39 @@
+
+kõf
+	/host:CPUõ"„Øø
+tf_Compute/4074500„Øø"†Øø
+tf_Compute/4074502†ØøÉÔøÉÔø"eõÉÔørestored_function_bodyHÀ¬ÔcPÀº´ôZ
+tracing_count1Z$
+tf_function_callnotTraced-nonXla".õÉÔøTFE_Py_ExecuteCancelableH€§û P€¢‹"dõÉÔøEagerExecuteH€À–±PÀÛ‰[Z3
+eager_op'__inference_restored_function_body_3468Z
+is_func1"OõÉÔø:EagerLocalExecute: __inference_restored_function_body_3468H€É²P€ÎÒY"&õÉÔøEagerCopyToDeviceHÀÍÍ²PÀ±Ÿ"1õÉÔøValidateInputTypeAndPlacementHÀ°Œ½PÀ„="'õÉÔøEagerKernelExecuteHÀ¹†¾PÀİÜM"-õÉÔøKernelAndDeviceFunc::RunHÀËú¿PÀÂîJ"<õÉÔøFunctionRunHÀ“ËÇPÀ¨¥Z
+id-3261963364512185495"*õÉÔøTFE_DeleteTensorHandleHÀûæçPÀ„="*õÉÔøTFE_DeleteTensorHandleH€°‡–P€‰z" õÉÔøtf.constantH€ğ‹ÓPÀçû
+"&õÉÔøTFE_DeleteTensorHandleH€ÊĞÜ"-õÉÔøTFE_Py_FastPathExecute_CHÀç¨íPÀˆì_"HõÉÔøEagerExecuteH€á˜úPÀ‚êZ
+eager_op_EagerConstZ
+is_func0"3õÉÔøEagerLocalExecute: _EagerConstHÀåÕúPÀùï"%õÉÔøEagerCopyToDeviceH€…şP€‰z"'õÉÔøEagerKernelExecuteHÀ›²€PÀÃ“"-õÉÔøValidateInputTypeAndPlacementHÀ›²€"-õÉÔøKernelAndDeviceFunc::RunH€ ï€PÀº™"*õÉÔøTFE_DeleteTensorHandleHÀìüˆPÀ„="&õÉÔøTFE_DeleteTensorHandleH€Œ¨Œ"&õÉÔøTFE_DeleteTensorHandleH€•¢"GõÉÔøEagerExecuteHÀ¢ÙP€ã¾
+Z
+eager_op
+LogicalAndZ
+is_func0"2õÉÔøEagerLocalExecute: LogicalAndHÀ¢ÙPÀŞ
+"%õÉÔøEagerCopyToDeviceH€°P€‰z"'õÉÔøEagerKernelExecuteH€Â„’P€¿Ö"-õÉÔøValidateInputTypeAndPlacementH€Â„’"-õÉÔøKernelAndDeviceFunc::RunHÀÆÁ’P€¶Ü"&õÉÔøconvert_to_tensorHÀÂ¤§P€›î"-õÉÔøTFE_Py_FastPathExecute_CH€ôÃ¬P€—È"EõÉÔøEagerExecuteH€¼”´PÀçû
+Z
+is_func0Z
+eager_opIdentity"0õÉÔøEagerLocalExecute: IdentityHÀÀÑ´P€ã¾
+"%õÉÔøEagerCopyToDeviceHÀÒÅ¶P€‰z"-õÉÔøValidateInputTypeAndPlacementHÀä¹¸"'õÉÔøEagerKernelExecuteH€éö¸P€¶Ü"-õÉÔøKernelAndDeviceFunc::RunHÀí³¹PÀ±Ÿ"-õÉÔøTFE_Py_FastPathExecute_CHÀ³±ÎPÀº™"&õÉÔøconvert_to_tensorH€şëãPÀÌ"&õÉÔøconvert_to_tensorH€Ø°íP€«" õÉÔøtf.constantH€óPÀÌ"&õÉÔøTFE_DeleteTensorHandleH€Íãù"&õÉÔøconvert_to_tensorHÀ÷€P€ş¬" õÉÔøtf.constantH€¹œ…P€¶Ü"&õÉÔøTFE_DeleteTensorHandleH€æş‰"&õÉÔøconvert_to_tensorH€œÛP€ï+" õÉÔøtf.constantHÀÛÈ±PÀº™"*õÉÔøTFE_DeleteTensorHandleH€è¶PÀ„=".õÉÔøTFE_Py_ExecuteCancelableH€Õ¸¾PÀéòå"JõÉÔøEagerExecuteH€”ÅP€¦ßŞZ
+eager_opWriteSummaryZ
+is_func0"5õÉÔøEagerLocalExecute: WriteSummaryH€‰ÆPÀ˜¨İ"&õÉÔøEagerCopyToDeviceHÀªÀÇPÀ–±"1õÉÔøValidateInputTypeAndPlacementHÀÚ¾ã
+PÀ„="'õÉÔøEagerKernelExecuteHÀã¸ä
+P€Òø>"-õÉÔøKernelAndDeviceFunc::RunH€èõä
+P€Œû)"*õÉÔøTFE_DeleteTensorHandleHÀĞŸ¦PÀ„="*õÉÔøTFE_DeleteTensorHandleH€ÕÜ¦PÀ„="&õÉÔøTFE_DeleteTensorHandleHÀÙ™§" õÉÔøtf.constantHÀ¡ê®PÀÕ‡	"&õÉÔøTFE_DeleteTensorHandleHÀéº¶"&õÉÔøTFE_DeleteTensorHandleHÀŸ—¼"*õÉÔøTFE_DeleteTensorHandleH€¤Ô¼PÀ„="*õÉÔøTFE_DeleteTensorHandleHÀççÃPÀ„="&õÉÔøTFE_DeleteTensorHandleHÀğáÄ"Võ„ØøExecutorState::ProcessH€éÒĞPÀÕ‡	Z
+id-3261963364512185495Z
+iter_num0"…õ„ØøReadVariableOpHÀšòÕP€‰zZa
+	long_nameTStatefulPartitionedCall/StatefulPartitionedCall/MatMul/ReadVariableOp:ReadVariableOp"Võ†ØøExecutorState::ProcessH€ºÙPÀ‡¾)Z
+id-3261963364512185495Z
+iter_num0"Çõ†ØøLookupTableFindV2HÀÇÔÚP€­âZ
+	long_nameStatefulPartitionedCall/StatefulPartitionedCall/sequential/StatefulPartitionedCall/string_lookup/None_Lookup/LookupTableFindV2:LookupTableFindV2"Èõ†ØøResourceGatherHÀ¥âPÀŸ«Z¢
+	long_name”StatefulPartitionedCall/StatefulPartitionedCall/sequential/StatefulPartitionedCall/embedding/StatefulPartitionedCall/embedding_lookup:ResourceGather"gõ†ØøMatMulH€¸ÊæP€ã¾
+ZJ
+	long_name=StatefulPartitionedCall/StatefulPartitionedCall/MatMul:MatMul"gõ†ØøTopKV2H€¤ƒòP€ÑÊZJ
+	long_name=StatefulPartitionedCall/StatefulPartitionedCall/TopKV2:TopKV2"wõ†ØøResourceGatherHÀùŠûP€›îZR
+	long_nameEStatefulPartitionedCall/StatefulPartitionedCall/Gather:ResourceGather"Eõ†ØøExecutorDoneCallbackHÀÊÕƒPÀ±ŸZ
+id-3261963364512185495
