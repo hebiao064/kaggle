@@ -29,11 +29,8 @@ user_ids = ratings.batch(1_000_000).map(lambda x: x["user_id"])
 
 unique_movie_titles = np.unique(np.concatenate(list(movie_titles)))
 unique_user_ids = np.unique(np.concatenate(list(user_ids)))
-```
-
 unique_movie_titles[:10]
-# Train a embedding table for inference
-```python
+
 user_model = tf.keras.Sequential([
   tf.keras.layers.StringLookup(
       vocabulary=unique_user_ids, mask_token=None),

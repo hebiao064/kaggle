@@ -1,0 +1,5 @@
+*.csv
+*.zip
+
+# Ignore Exported TF Model
+*/*/export/*
